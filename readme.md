@@ -3,7 +3,7 @@
 Lett Chat
   <br>
   <br>
-  <img src="https://github.com/luskafaria/fastfeet/blob/master/client/public/logo.png" alt="delivery truck draw" width="200">
+  <img src="client/public/logo.png" alt="delivery truck draw" width="200">
 
 <br>
 <br>
