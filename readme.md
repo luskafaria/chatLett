@@ -29,10 +29,10 @@ Este projeto é um protótipo de sala de bate-papo.
 
 ## 📦 Como utilizar
 
-Faça o download deste repositório;
-Instale as dependências necessárias;
-Execute o comando START no diretório CLIENT para rodar o front;
-Execute o comando START no diretório SERVER para rodar o back;
+Faça o download deste repositório;<br>
+Instale as dependências necessárias;<br>
+Execute o comando START no diretório CLIENT para rodar o front;<br>
+Execute o comando START no diretório SERVER para rodar o back;<br>
 
 A aplicação pode ser acessada através do http://localhost:5000
 
